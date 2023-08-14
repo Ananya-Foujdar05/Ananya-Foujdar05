@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ananya Foujdar
 - 👀 I’m Aspiring Data Analyst
-- 🌱 I’m currently learning Data Analyst
-- 💞️ I’m looking to collaborate on Data Analyst
+- 🌱 I’m currently learning Data Analyst skills
+- 💞️ I’m looking to collaborate on Data Analysis
 - 📫 Reach me on:
 - ananyafoujdar6@gmail.com
 
